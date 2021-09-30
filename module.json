@@ -1,8 +1,8 @@
 {
     "name": "wancr-witch",
     "title": "WANCR Witch",
-    "description": "Witch Class for D&D 5e by Mage Hand Press. Available Subclasses: Purple Magic.",
-    "version": "1.0.0",
+    "description": "Witch Class for D&D 5e by Mage Hand Press. Available Subclasses: Purple Magic, Tea Magic.",
+    "version": "1.0.1",
     "author": "TastyPig#0764",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -15,7 +15,7 @@
         },
 		{
             "name": "witch-hexes",
-            "label": "Witch Trinkets",
+            "label": "Witch Hexes",
             "path": "./packs/witch-hexes.db",
             "entity": "Item"
         },
@@ -24,6 +24,12 @@
             "label": "Witch Spells",
             "path": "./packs/witch-spells.db",
             "entity": "Item"
+        },
+		{
+            "name": "witch-familiars",
+            "label": "Witch Familiars",
+            "path": "./packs/witch-familiars.db",
+            "entity": "Actor"
         }
     ],
 	"url": "https://github.com/crashmars/wancr-witch",
