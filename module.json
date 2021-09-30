@@ -1,8 +1,8 @@
 {
     "name": "wancr-witch",
     "title": "WANCR Witch",
-    "description": "Witch Class for D&D 5e by Mage Hand Press. Available Subclasses: Purple Magic, Tea Magic.",
-    "version": "1.0.1",
+    "description": "Witch Class for D&D 5e by Mage Hand Press. Available Subclasses: Purple Magic, Steel Magic, Tea Magic.",
+    "version": "1.0.2",
     "author": "TastyPig#0764",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
